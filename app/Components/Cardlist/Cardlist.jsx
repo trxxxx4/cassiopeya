@@ -24,7 +24,7 @@ export const Cardlist = () => {
         spaceBetween={30}
         centeredSlides={true}
         autoplay={{
-          delay: 950000,
+          delay: 10000,
           disableOnInteraction: false,
         }}
         pagination={{
