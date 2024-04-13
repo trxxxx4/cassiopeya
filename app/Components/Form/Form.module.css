@@ -1,0 +1,73 @@
+@media screen and (min-width:475px) {
+    .form__main__container {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        gap: 25px;
+        flex-direction: column;
+        /*background-image: url(https://sun9-27.userapi.com/impg/vVSy275Z2PnWU5dNsajxRuG21uWOcULWcl9iDw/l8IHk3QekaM.jpg?size=2560x1440&quality=96&sign=4e0ea6b55dc402e4f4d57646e6811cec&type=album);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;*/
+
+
+    }
+
+    .form {
+        padding: 50px 150px 20px 150px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        /*background-color: rgba(51, 53, 42, 0.5);*/
+        align-items: center;
+        border-radius: 20px;
+        /*backdrop-filter: blur(5px);*/
+    }
+
+    .input {
+        width: 500px;
+        border-radius: 15px;
+        height: 30px;
+        font-size: 18px;
+    }
+
+    .button {
+        width: 40%;
+        font-size: 18px;
+        height: 30px;
+        position: relative;
+        border-radius: 15px;
+        color: black;
+        /*color: rgba(51, 53, 42, 0.5);*/
+        transition: 200ms linear;
+        z-index: 2;
+    }
+
+    /*.button::after {
+        position: absolute;
+        width: 0px;
+        height: 100%;
+        top: 0px;
+        display: none;
+        left: 0px;
+        content: 'Отправить';
+        background-color: black;
+        transition: 200ms linear;
+        z-index: 1;
+        
+    }
+
+    .button:hover::after {
+        width: 100%;
+        display: block;
+        height: 100%;
+        background-color: black;
+    }
+
+    .button:hover {
+        color: white;
+    }*/
+
+}

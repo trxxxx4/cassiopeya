@@ -1,0 +1,40 @@
+@media screen and (min-width:1161px) {
+    .comments__div{
+        width: 100%;
+        height: 500px;
+
+    }
+    .flex__main__div{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .h2{
+        text-align: center;
+        
+    }
+      
+}
+
+
+
+
+@media screen and (max-width: 475px) {
+    .comments__div{
+        width: 100%;
+        height: 500px;
+
+    }
+    .flex__main__div{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .h2{
+        text-align: center;
+        font-size: 22px;
+        padding-bottom: 10px;
+        
+    }
+      
+}

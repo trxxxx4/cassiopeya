@@ -1,0 +1,59 @@
+
+
+@media  screen and (min-width:475px) {
+
+.swiper {
+    width: 100%;
+    
+
+  }
+  .mySwiper{
+padding-bottom: 60px;
+
+  }
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(20px);
+  }
+
+  .swiper-pagination{
+    transform: translateY(4px);
+  }
+}
+  
+  
+  @media  screen and (max-width:475px) {
+
+
+    .swiper{
+
+        width: 100%;
+      
+      padding-bottom: 24px;
+    }
+    
+    .swiper-wrapper{
+      width: 100%;
+    }
+    .swiper-slide{
+      width: 130px;
+      margin-right: 10px;
+    }
+
+
+    .swiper-pagination{
+      transform: translateY(8px);
+    }
+    
+    
+}
+  
+  
+  

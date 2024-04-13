@@ -1,0 +1,115 @@
+@media screen and (min-width: 475px) {
+    .main{
+        display: flex;
+        
+        width: 100%;
+        justify-content: center;
+
+    }
+    .main__container{
+        width: 90%;
+        flex-direction: column;
+
+
+    }
+    .image{
+        width: 100%;
+        display: block;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+    .flex__container{
+        display: flex;
+        justify-content: space-between;
+        
+        padding-bottom: 60px;
+    }
+    .description{
+        font-size: 22px;
+    }
+    .description__container{
+        width: 55%;
+        border-left: 1px solid rgba(0, 0, 0, 0.5);
+        padding-left: 20px;
+    }
+    .main__text__container{
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+    }
+    .main__flex__div{
+        display: flex;
+        width: 35%;
+        justify-content: space-between;
+    }
+    .flex__div{
+        gap: 4px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 475px) {
+    .main{
+        display: flex;
+        
+        width: 100%;
+        justify-content: center;
+
+    }
+    .main__container{
+        width: 90%;
+        flex-direction: column;
+
+
+    }
+    .image{
+        width: 100%;
+        display: block;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+    .flex__container{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: 60px;
+    }
+    .description{
+        font-size: 18px;
+    }
+    .description__container{
+        width: 90%;
+        text-align: start;
+        padding-top: 50px;
+    }
+    .main__text__container{
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+    }
+    .main__flex__div{
+        display: flex;
+        width: 90%;
+        justify-content: space-between;
+    }
+    .flex__div{
+        gap: 8px;
+        display: flex;
+        flex-direction: column;
+    }
+    .h3{
+        font-size: 16px;
+    }
+    
+}
+
+
+
