@@ -35,7 +35,7 @@ export const Footer = () => {
                 <div className={styles.footer__main__container}>
                     <div className={styles.footer__container}>
                         <a rel="noopener noreferrer" target='_blank' href="https://vk.com/voroninmixailgey" className={styles.a}>VKontakte</a>
-                        <a rel="noopener noreferrer" target='_blank' href="https://t.me/atarashii" className={styles.a}>Telegram</a>
+                        <a rel="noopener noreferrer" target='_blank' href="https://t.me/nixtalk" className={styles.a}>Telegram</a>
                         <a rel="noopener noreferrer" target='_blank' href="https://youtu.be/fShlVhCfHig?si=eGzE0rn3-kAwIJtU" className={styles.a}>YouTube</a>
                     </div>
                 </div>
