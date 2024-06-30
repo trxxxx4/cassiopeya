@@ -1,7 +1,9 @@
 
 
 @media  screen and (min-width:475px) {
-
+.swiper-wrapper{
+  cursor: pointer;
+}
 .swiper {
     width: 100%;
     
