@@ -130,7 +130,7 @@ export const comments = [
         id: 10,
         carId: 3,
         avatar: 'https://sun9-48.userapi.com/impg/azO9HtvHu00vBCxmcEfqQU5pdLKPPtB6kRi8lA/kWSh-WUlmAc.jpg?size=63x71&quality=96&sign=8b1cfae1320b8033103797512e8b65b4&type=album',
-        text: 'Пока еще не сдал на права, но родители заранее купили мне Subaru Legacy. Салон очень приятный, снаружи дизайн тоже на уровне. Внешне автомобиль очень симпатичный. Жду не дождусь, когда уже смогу сам опробовать автомобиль на дороге.'
+        text: 'Родители купили мне Subaru Legacy. Сейчас езжу на най без прав. Автомобиль меня приятно порадовал. '
     
     },
     {
