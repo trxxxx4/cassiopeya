@@ -46,7 +46,7 @@ export const Footer = () => {
                     <div className={styles.number__div}>
                     <a className={styles.number} href="tel:+71234567890">+7-123-456-78-90</a>
                     <a className={styles.number} href="sb220507@gmail.com&body=Узнать подробнее?subject=Вопрос">Pleyada@gmail.com</a>
-                    <a className={styles.number} href="https://instyyyforbelgorod.netlify.app/">Last project</a>
+                    <a className={styles.number} href="https://janiuarycold.netlify.app/">Last project</a>
                     </div>
                     
                 </div>
